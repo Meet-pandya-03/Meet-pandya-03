@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/g9b6UXu.png)
+![i am cse student](https://www.linkpicture.com/q/Meet-Pandya-1.png)
 <h1 align="center">Hi 👋, I'm Meet Pandya</h1>
 <h3 align="center">A student of computer Science ..</h3>
 <image align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif"">
