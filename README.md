@@ -1,6 +1,5 @@
 ### Hi there 👋
-* [<img src='![image](https://user-images.githubusercontent.com/103066916/169574445-08f2737c-33e0-43af-bb88-72da220cef54.png)
-' alt='github' height='40'>](https://github.com/Meet-pandya-03)
+* [<img src='https://ibb.co/vhHdkYB' alt='github' height='40'>](https://github.com/Meet-pandya-03)
 
 <!--## *Hey there*! 
 
