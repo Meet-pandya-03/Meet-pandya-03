@@ -1,4 +1,4 @@
-![MasterHead(https://imgur.com/a/QvP9YoB)](https://youtu.be/25s_TeRqyHg)
+![MasterHead](https://i.imgur.com/g9b6UXu.png)
 <h1 align="center">Hi 👋, I'm Meet Pandya</h1>
 <h3 align="center">A student of computer Science ..</h3>
 <image align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif"">
