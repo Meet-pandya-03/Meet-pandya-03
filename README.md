@@ -1,50 +1,27 @@
-### Hi there 👋
-* [<img src='https://ibb.co/vhHdkYB' alt='github' height='40'>](https://github.com/Meet-pandya-03)
+[![MasterHead](https://www.canva.com/design/DAFBQX8sQe4/cTtwcI3sU9P8jRzePRmg1A/view?utm_content=DAFBQX8sQe4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://youtu.be/25s_TeRqyHg)
+<h1 align="center">Hi 👋, I'm Meet Pandya</h1>
+<h3 align="center">A student of computer Science ..</h3>
+<image align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif"">
 
-<!--## *Hey there*! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-pandya-03&label=Profile%20views&color=0e75b6&style=flat" alt="meet-pandya-03" /> </p>
 
-### ```I'm studying to be a scientist```
-#### ```of computers 😌``` (_sorry not sorry :)_ )
+- 🔭 I’m currently working on **Contact(a word game)**
 
-* I go by Farhat, find me here: 
- 
-  * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhatkadiwala)
- 
-  * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/farhatkadiwala_/)
+- 🌱 I’m currently learning **languages , frameworks and many more things.**
 
-## *Languages I speak(type 😛):*
+- 📫 How to reach me **meetd4541@gmail.com**
 
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-<br/><br/><br/>
-
-#### *Profile seems light because I'm still learning the heavy stuff :)*
-
-#### *See you soon with some good stuff!*
-
-<br/><br/></br>
-
-<!---
-<p align="center"> <br>
-  <img src="https://profile-counter.glitch.me/automatlog/count.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/meet pandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet pandya" height="30" width="40" /></a>
+<a href="https://instagram.com/pandya_meeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandya_meeet" height="30" width="40" /></a>
 </p>
 
-automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**Meet-pandya-03/Meet-pandya-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meet-pandya-03&show_icons=true&locale=en&layout=compact" alt="meet-pandya-03" /></p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meet-pandya-03&show_icons=true&locale=en" alt="meet-pandya-03" /></p>
 
-### 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet-pandya-03&" alt="meet-pandya-03" /></p>
